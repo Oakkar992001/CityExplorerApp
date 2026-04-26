@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Lit-et-Mixe",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-04-24T23:03:01.708Z",
+      "notes": "",
+      "position": {
+        "lat": "43.97700467496408",
+        "lng": "-1.2963867187500002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Maubin",
+      "country": "Myanmar",
+      "emoji": "🇲🇲",
+      "date": "2026-04-25T15:26:44.481Z",
+      "notes": "yjy",
+      "position": {
+        "lat": "16.846605106396304",
+        "lng": "95.69091796875001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Puebla de Benifasar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-04-26T00:46:37.818Z",
+      "notes": "",
+      "position": {
+        "lat": "40.697299008636755",
+        "lng": "0.21972656250000003"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Lles de Cerdanya",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-04-26T00:46:44.399Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45588764197166",
+        "lng": "1.6699218750000002"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Balearic Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-04-26T18:59:19.100Z",
+      "notes": "",
+      "position": {
+        "lat": "39.01064750994083",
+        "lng": "0.02197265625"
+      },
+      "id": 98443204
+    }
+  ]
+}
